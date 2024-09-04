@@ -11,8 +11,8 @@
   </a>
   <h3>Hi, I'm Md Rakib Hasan Khan. In short  Rakib </h3>
   
-  <p>
-I am 3+ yrs of experienced DevOps engineer to assist with various environment configuration and maintenance tasks on an on-demand basis. My superpowers are honesty, accuracy, and fast delivery while always giving top-quality service.
+  <p>      
+Full Stack Developer with 3+ years of experience specializing in React and Django. I excel in building and maintaining scalable, user-centric web applications. My strengths are clean code, efficient problem-solving, and delivering high-quality solutions on time. Committed to continuous learning and leveraging the latest technologies to provide top-tier service. Honesty, precision, and fast delivery are my key attributes.
   </P> 
   
 </div>
