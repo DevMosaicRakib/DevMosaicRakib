@@ -18,20 +18,6 @@ I am 3+ yrs of experienced DevOps engineer to assist with various environment co
 </div>
 
 
-<!----------------------------------- Tech Stack Section ------------------------------------>
-
-
-
-</p>
-<h3>Devops</h3>
-<p>
-    <img src="https://github.com/rajibsandy/rajibsandy/blob/main/sass%20(2)%20(1).png" alt="Cloud" />
-    <img src="https://github.com/rajibsandy/rajibsandy/blob/main/CloudCumpu%20(1)%20(1).png" alt="Cloud" />
-    <img src="https://github.com/rajibsandy/rajibsandy/blob/main/docker%20(2).png" alt="docker" />
-    <img src="https://github.com/rajibsandy/rajibsandy/blob/main/docker%20(1)%20(1).png" alt="k8s" />
-    <img src="https://github.com/rajibsandy/rajibsandy/blob/main/docker%20(3)%20(1).png" alt="jenkins" />
-</p>
-
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
