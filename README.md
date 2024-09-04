@@ -61,9 +61,6 @@ Full Stack Developer with 3+ years of experience specializing in React and Djang
 <h3>Other</h3>
 <p>
     <img src="https://github.com/rajibsandy/rajibsandy/blob/main/10%20(1).png" alt="github" />
-    <img src="https://github.com/rajibsandy/rajibsandy/blob/main/12%20(2).png" alt="github" />
-    <img src="https://github.com/rajibsandy/rajibsandy/blob/main/11%20(1).png" alt="digitalocean" />
-
 </p>
 
 
