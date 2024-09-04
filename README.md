@@ -6,10 +6,10 @@
 <!----------------------------------- About Section ------------------------------------>
 <div>
   <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/rajibsandy/rajibsandy/main/MonitorARMS-DecorationBD_400x400-removebg-preview.png">
-  <a href="https://github.com/DevRajib?tab=followers">
-     <img align="right" src="https://img.shields.io/github/followers/DevRajib?label=Followers&style=social" alt="followers-count">
+  <a href="https://github.com/DevMosaicRakib?tab=followers">
+     <img align="right" src="https://img.shields.io/github/followers/DevMosaicRakib?label=Followers&style=social" alt="followers-count">
   </a>
-  <h3>Hi, I'm Md Najmul Hoda. In short  Rajib </h3>
+  <h3>Hi, I'm Md Rakib Hasan Khan. In short  Rakib </h3>
   
   <p>
 I am 3+ yrs of experienced DevOps engineer to assist with various environment configuration and maintenance tasks on an on-demand basis. My superpowers are honesty, accuracy, and fast delivery while always giving top-quality service.
