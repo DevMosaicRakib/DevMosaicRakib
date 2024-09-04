@@ -5,7 +5,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-  <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/rajibsandy/rajibsandy/main/MonitorARMS-DecorationBD_400x400-removebg-preview.png">
+  <img align="right" width="150" alt="Coding" src="https://github.com/DevMosaicRakib/DevMosaicRakib/blob/main/img2.jpeg">
   <a href="https://github.com/DevMosaicRakib?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/DevMosaicRakib?label=Followers&style=social" alt="followers-count">
   </a>
