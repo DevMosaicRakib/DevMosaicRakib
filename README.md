@@ -1,6 +1,6 @@
 <!----------------------------------- Banner  ------------------------------------>
 
-[![MasterHead](https://github.com/rajibsandy/rajibsandy/blob/main/01-slide-1%20(2).png)](#)
+[![MasterHead](https://github.com/DevMosaicRakib/DevMosaicRakib/blob/main/Full%20Stack%20Web%20Developer.png)](#)
 
 
 <!----------------------------------- About Section ------------------------------------>
