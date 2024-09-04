@@ -92,7 +92,7 @@ Full Stack Developer with 3+ years of experience specializing in React and Djang
 
 <p align="left">
     <a href="https://github.com/DevMosaicRakib">
-        <img src="https://komarev.com/ghpvc/?username=DevMosaicRakib&label=Profile%20views&color=0e75b6&style=flat" alt="DevRajib" />
+        <img src="https://komarev.com/ghpvc/?username=DevMosaicRakib&label=Profile%20views&color=0e75b6&style=flat" alt="DevMosaicRakib" />
     </a>
     <a href="https://github.com/DevMosaicRakib?tab=followers">
         <img src="https://img.shields.io/github/followers/DevMosaicRakib?label=Followers&style=social" alt="followers-count">
